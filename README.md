@@ -5,5 +5,5 @@ NCERT textbooks are designed to address the bare minimum need of school students
 
 This website will address this limitation by uplifting NCERT textbooks to next level so that the student doesn't need to refer to yet another textbook to meet the intended goal irrespective of its outreach.
 
-Author : Chandra Shekhar Kumar (IIT Kanpur 1995 batch, Programmer, Ancient Kriya Yogi and Hacker)
+Author : Chandra Shekhar Kumar (IIT Kanpur 1995 batch, Programmer, Author of 43+ books, Ancient Kriya Yogi and Hacker)
 
