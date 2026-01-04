@@ -1,5 +1,5 @@
 # ncert-maths.github.io
-Mastering, Cracking, Hacking NCERT Math (11th-12th) for IIT JEE, Olympiads and Beyond.
+Mastering, Cracking, Hacking NCERT Mathematics (11th-12th) for IIT JEE, Olympiads and Beyond.
 
 NCERT textbooks are designed to address the bare minimum need of school students. This feature becomes a limitation for IIT JEE / AIIMS / Olympiads / ISI Aspirants. 
 
